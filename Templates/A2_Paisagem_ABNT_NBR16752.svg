@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace" version="1.1" width="594mm" height="420mm" viewBox="0 0 594 420">
+<title>Folha ABNT NBR 16752 - A2 Paisagem</title>
+<!-- Gerado por gerar.py - FreeCAD Templates ABNT - licença CC0 1.0 -->
+<rect x="20" y="10" width="564" height="400" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round"/>
+<path d="M 297,5 L 297,15" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round"/>
+<path d="M 297,415 L 297,405" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round"/>
+<path d="M 5,210 L 25,210" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round"/>
+<path d="M 589,210 L 579,210" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round"/>
+<rect x="15" y="5" width="574" height="410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<path d="M 47,5 L 47,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 47,415 L 47,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 97,5 L 97,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 97,415 L 97,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 147,5 L 147,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 147,415 L 147,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 197,5 L 197,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 197,415 L 197,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 247,5 L 247,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 247,415 L 247,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 347,5 L 347,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 347,415 L 347,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 397,5 L 397,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 397,415 L 397,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 447,5 L 447,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 447,415 L 447,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 497,5 L 497,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 497,415 L 497,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 547,5 L 547,10" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 547,415 L 547,410" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 15,60 L 20,60" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 589,60 L 584,60" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 15,110 L 20,110" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 589,110 L 584,110" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 15,160 L 20,160" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 589,160 L 584,160" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 15,260 L 20,260" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 589,260 L 584,260" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 15,310 L 20,310" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 589,310 L 584,310" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 15,360 L 20,360" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<path d="M 589,360 L 584,360" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round"/>
+<text x="33.5" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">1</text>
+<text x="33.5" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">1</text>
+<text x="72" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">2</text>
+<text x="72" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">2</text>
+<text x="122" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">3</text>
+<text x="122" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">3</text>
+<text x="172" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">4</text>
+<text x="172" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">4</text>
+<text x="222" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">5</text>
+<text x="222" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">5</text>
+<text x="272" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">6</text>
+<text x="272" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">6</text>
+<text x="322" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">7</text>
+<text x="322" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">7</text>
+<text x="372" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">8</text>
+<text x="372" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">8</text>
+<text x="422" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">9</text>
+<text x="422" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">9</text>
+<text x="472" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">10</text>
+<text x="472" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">10</text>
+<text x="522" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">11</text>
+<text x="522" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">11</text>
+<text x="565.5" y="8.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">12</text>
+<text x="565.5" y="413.8" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">12</text>
+<text x="17.5" y="36.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">A</text>
+<text x="586.5" y="36.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">A</text>
+<text x="17.5" y="86.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">B</text>
+<text x="586.5" y="86.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">B</text>
+<text x="17.5" y="136.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">C</text>
+<text x="586.5" y="136.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">C</text>
+<text x="17.5" y="186.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">D</text>
+<text x="586.5" y="186.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">D</text>
+<text x="17.5" y="236.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">E</text>
+<text x="586.5" y="236.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">E</text>
+<text x="17.5" y="286.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">F</text>
+<text x="586.5" y="286.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">F</text>
+<text x="17.5" y="336.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">G</text>
+<text x="586.5" y="336.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">G</text>
+<text x="17.5" y="386.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">H</text>
+<text x="586.5" y="386.2" style="font-family:osifont;font-size:3.5px;font-weight:normal;text-anchor:middle;fill:#000000">H</text>
+<rect x="404" y="352" width="180" height="58" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round"/>
+<rect x="404" y="352" width="60" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="404.8" y="354.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">EMPRESA / PROPRIETÁRIO</text>
+<text x="405.2" y="362.4" freecad:editable="empresa" freecad:autofill="organization" style="font-family:osifont;font-size:3.5px;text-anchor:start;fill:#000000"><tspan>NOME DA EMPRESA</tspan></text>
+<rect x="464" y="352" width="60" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="464.8" y="354.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">CLIENTE</text>
+<text x="465.2" y="362.4" freecad:editable="cliente" style="font-family:osifont;font-size:3.5px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="524" y="352" width="60" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="524.8" y="354.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">PROJETO / CONTRATO / OM</text>
+<text x="525.2" y="362.4" freecad:editable="projeto" style="font-family:osifont;font-size:3.5px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="404" y="364" width="125" height="16" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="404.8" y="366.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">TÍTULO</text>
+<text x="405.2" y="372.6" freecad:editable="titulo" freecad:autofill="title" style="font-family:osifont;font-size:5px;text-anchor:start;fill:#000000"><tspan>TÍTULO DO DESENHO</tspan></text>
+<text x="405.2" y="378.2" freecad:editable="subtitulo" style="font-family:osifont;font-size:3.5px;text-anchor:start;fill:#000000"><tspan>Subtítulo</tspan></text>
+<rect x="529" y="364" width="55" height="16" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="529.8" y="366.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">MATERIAL</text>
+<text x="530.2" y="372.6" freecad:editable="material" style="font-family:osifont;font-size:3.5px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<text x="530.2" y="378.2" freecad:editable="material_2" style="font-family:osifont;font-size:3.5px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="404" y="380" width="34" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="404.8" y="382.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">DESENHO</text>
+<text x="405.2" y="387.4" freecad:editable="desenhado" freecad:autofill="author" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="438" y="380" width="20" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="438.8" y="382.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">DATA</text>
+<text x="439.2" y="387.4" freecad:editable="data_desenhado" freecad:autofill="date" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="458" y="380" width="34" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="458.8" y="382.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">VERIFICADO</text>
+<text x="459.2" y="387.4" freecad:editable="verificado" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="492" y="380" width="20" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="492.8" y="382.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">DATA</text>
+<text x="493.2" y="387.4" freecad:editable="data_verificado" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="512" y="380" width="34" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="512.8" y="382.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">APROVADO</text>
+<text x="513.2" y="387.4" freecad:editable="aprovado" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="546" y="380" width="20" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="546.8" y="382.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">DATA</text>
+<text x="547.2" y="387.4" freecad:editable="data_aprovado" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="566" y="380" width="18" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="566.8" y="382.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">ESCALA</text>
+<text x="575" y="387.4" freecad:editable="escala" freecad:autofill="scale" style="font-family:osifont;font-size:3.5px;text-anchor:middle;fill:#000000"><tspan>1:1</tspan></text>
+<rect x="404" y="389" width="66" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="404.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">Nº DO DESENHO</text>
+<text x="405.2" y="399.4" freecad:editable="numero" style="font-family:osifont;font-size:5px;text-anchor:start;fill:#000000"><tspan>XX-XXX-000</tspan></text>
+<rect x="470" y="389" width="14" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="470.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">REV.</text>
+<text x="477" y="399.4" freecad:editable="revisao" style="font-family:osifont;font-size:5px;text-anchor:middle;fill:#000000"><tspan>0</tspan></text>
+<rect x="484" y="389" width="18" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="484.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">FOLHA</text>
+<text x="493" y="399.4" freecad:editable="folha" freecad:autofill="sheet" style="font-family:osifont;font-size:3.5px;text-anchor:middle;fill:#000000"><tspan>1/1</tspan></text>
+<rect x="502" y="389" width="16" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="502.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">FORMATO</text>
+<text x="510" y="399.4" style="font-family:osifont;font-size:5px;font-weight:normal;text-anchor:middle;fill:#000000">A2</text>
+<rect x="518" y="389" width="14" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="518.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">UNIDADE</text>
+<text x="525" y="399.4" freecad:editable="unidade" style="font-family:osifont;font-size:3.5px;text-anchor:middle;fill:#000000"><tspan>mm</tspan></text>
+<rect x="532" y="389" width="22" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="532.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">1º DIEDRO</text>
+<path d="M 541.5,394.05 L 535.5,395.1 L 535.5,397.5 L 541.5,398.55 Z" style="fill:none;stroke:#000000;stroke-width:0.35"/>
+<circle cx="546.5" cy="396.3" r="2.25" style="fill:none;stroke:#000000;stroke-width:0.35"/>
+<circle cx="546.5" cy="396.3" r="1.2" style="fill:none;stroke:#000000;stroke-width:0.35"/>
+<rect x="554" y="389" width="30" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="554.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">ART / CREA</text>
+<text x="555.2" y="399.4" freecad:editable="art" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="404" y="401" width="90" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="404.8" y="403.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">TOLERÂNCIA GERAL</text>
+<text x="405.2" y="408.4" freecad:editable="tolerancia" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan>ISO 2768-m</tspan></text>
+<rect x="494" y="401" width="90" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="494.8" y="403.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">SITUAÇÃO</text>
+<text x="495.2" y="408.4" freecad:editable="situacao" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan>EM ELABORAÇÃO</tspan></text>
+<rect x="404" y="347" width="12" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="410" y="350.6" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:middle;fill:#000000">REV.</text>
+<rect x="416" y="347" width="110" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="471" y="350.6" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:middle;fill:#000000">DESCRIÇÃO</text>
+<rect x="526" y="347" width="30" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="541" y="350.6" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:middle;fill:#000000">POR</text>
+<rect x="556" y="347" width="28" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="570" y="350.6" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:middle;fill:#000000">DATA</text>
+<rect x="404" y="342" width="12" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="410" y="345.7" freecad:editable="rev_1" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="416" y="342" width="110" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="417.2" y="345.7" freecad:editable="rev_descricao_1" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="526" y="342" width="30" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="527.2" y="345.7" freecad:editable="rev_por_1" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="556" y="342" width="28" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="570" y="345.7" freecad:editable="rev_data_1" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="404" y="337" width="12" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="410" y="340.7" freecad:editable="rev_2" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="416" y="337" width="110" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="417.2" y="340.7" freecad:editable="rev_descricao_2" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="526" y="337" width="30" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="527.2" y="340.7" freecad:editable="rev_por_2" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="556" y="337" width="28" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="570" y="340.7" freecad:editable="rev_data_2" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="404" y="332" width="12" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="410" y="335.7" freecad:editable="rev_3" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="416" y="332" width="110" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="417.2" y="335.7" freecad:editable="rev_descricao_3" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="526" y="332" width="30" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="527.2" y="335.7" freecad:editable="rev_por_3" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="556" y="332" width="28" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="570" y="335.7" freecad:editable="rev_data_3" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="404" y="327" width="12" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="410" y="330.7" freecad:editable="rev_4" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="416" y="327" width="110" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="417.2" y="330.7" freecad:editable="rev_descricao_4" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="526" y="327" width="30" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="527.2" y="330.7" freecad:editable="rev_por_4" style="font-family:osifont;font-size:2.8px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="556" y="327" width="28" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="570" y="330.7" freecad:editable="rev_data_4" style="font-family:osifont;font-size:2.8px;text-anchor:middle;fill:#000000"><tspan></tspan></text>
+<rect x="404" y="327" width="180" height="25" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round"/>
+</svg>
