@@ -2,14 +2,15 @@
 <package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
   <name>Modelos ABNT para TechDraw</name>
   <description>Folhas de desenho ABNT (NBR 16752, alinhada à ISO 5457 / ISO 7200) para o TechDraw, formatos A0 a A4, com legenda e quadro de revisões em português do Brasil. Drawing sheet templates following the Brazilian ABNT standard, A0 to A4, with a Brazilian Portuguese title block and revision table.</description>
-  <version>1.1.0</version>
-  <date>2026-10-26</date>
+  <version>1.1.1</version>
+  <date>2026-10-27</date>
   <maintainer email="tofus.automacao@gmail.com">Andrew Steven (Tofus-BR)</maintainer>
   <license file="LICENSE">CC0-1.0</license>
-  <url type="repository" branch="main">https://github.com/Tofus-BR/FreeCAD-Templates-ABNT</url>
+  <url type="repository" branch="release">https://github.com/Tofus-BR/FreeCAD-Templates-ABNT</url>
   <url type="bugtracker">https://github.com/Tofus-BR/FreeCAD-Templates-ABNT/issues</url>
-  <url type="readme">https://github.com/Tofus-BR/FreeCAD-Templates-ABNT/blob/main/README.md</url>
+  <url type="readme">https://github.com/Tofus-BR/FreeCAD-Templates-ABNT/raw/release/README.md</url>
   <icon>Resources/icon.svg</icon>
+  <freecadmin>1.1.0</freecadmin>
   <content>
     <other>
       <name>Modelos ABNT para TechDraw</name>
