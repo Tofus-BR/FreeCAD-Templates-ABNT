@@ -140,14 +140,20 @@
 <circle cx="546.5" cy="396.3" r="2.25" style="fill:none;stroke:#000000;stroke-width:0.35"/>
 <circle cx="546.5" cy="396.3" r="1.2" style="fill:none;stroke:#000000;stroke-width:0.35"/>
 <rect x="554" y="389" width="30" height="12" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
-<text x="554.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">ART / CREA</text>
+<text x="554.8" y="391.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">ART / TRT</text>
 <text x="555.2" y="399.4" freecad:editable="art" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
-<rect x="404" y="401" width="90" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<rect x="404" y="401" width="40" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
 <text x="404.8" y="403.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">TOLERÂNCIA GERAL</text>
 <text x="405.2" y="408.4" freecad:editable="tolerancia" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan>ISO 2768-m</tspan></text>
-<rect x="494" y="401" width="90" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
-<text x="494.8" y="403.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">SITUAÇÃO</text>
-<text x="495.2" y="408.4" freecad:editable="situacao" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan>EM ELABORAÇÃO</tspan></text>
+<rect x="444" y="401" width="40" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="444.8" y="403.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">SITUAÇÃO</text>
+<text x="445.2" y="408.4" freecad:editable="situacao" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan>EM ELABORAÇÃO</tspan></text>
+<rect x="484" y="401" width="55" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="484.8" y="403.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">RESPONSÁVEL TÉCNICO</text>
+<text x="485.2" y="408.4" freecad:editable="responsavel" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
+<rect x="539" y="401" width="45" height="9" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
+<text x="539.8" y="403.8" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:start;fill:#000000">CREA / CFT</text>
+<text x="540.2" y="408.4" freecad:editable="crea" style="font-family:osifont;font-size:3.0px;text-anchor:start;fill:#000000"><tspan></tspan></text>
 <rect x="404" y="347" width="12" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>
 <text x="410" y="350.6" style="font-family:osifont;font-size:2.2px;font-weight:normal;text-anchor:middle;fill:#000000">REV.</text>
 <rect x="416" y="347" width="110" height="5" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linejoin:round"/>

@@ -168,7 +168,7 @@ class Folha:
             xs += 54
         self.cell(xs, y, 18, hh, "ESCALA", "escala", "1:1", 3.5, "middle", autofill="scale")
 
-        # linha 4: número, revisão, folha, formato, unidade, diedro, ART
+        # linha 4: número, revisão, folha, formato, unidade, diedro, ART/TRT
         y = ys[2]; hh = rows[1]
         self.cell(x0, y, 66, hh, "Nº DO DESENHO", "numero", "XX-XXX-000", 5)
         self.cell(x0 + 66, y, 14, hh, "REV.", "revisao", "0", 5, "middle")
@@ -180,12 +180,14 @@ class Folha:
         self.rect(x0 + 128, y, 22, hh)
         self.text(x0 + 128.8, y + LBL + 0.6, "1º DIEDRO")
         self.diedro(x0 + 139, y + 7.3)
-        self.cell(x0 + 150, y, 30, hh, "ART / CREA", "art", "", 3.0)
+        self.cell(x0 + 150, y, 30, hh, "ART / TRT", "art", "", 3.0)
 
-        # linha 5 (base): tolerância geral | observação / situação
+        # linha 5 (base): tolerância | situação | responsável técnico | registro profissional
         y = ys[1]; hh = rows[0]
-        self.cell(x0, y, 90, hh, "TOLERÂNCIA GERAL", "tolerancia", "ISO 2768-m", 3.0)
-        self.cell(x0 + 90, y, 90, hh, "SITUAÇÃO", "situacao", "EM ELABORAÇÃO", 3.0)
+        self.cell(x0, y, 40, hh, "TOLERÂNCIA GERAL", "tolerancia", "ISO 2768-m", 3.0)
+        self.cell(x0 + 40, y, 40, hh, "SITUAÇÃO", "situacao", "EM ELABORAÇÃO", 3.0)
+        self.cell(x0 + 80, y, 55, hh, "RESPONSÁVEL TÉCNICO", "responsavel", "", 3.0)
+        self.cell(x0 + 135, y, 45, hh, "CREA / CFT", "crea", "", 3.0)
 
     def diedro(self, cx, cy):
         """Símbolo do 1º diedro (ISO 128 / NBR 16752), altura total 6 mm."""

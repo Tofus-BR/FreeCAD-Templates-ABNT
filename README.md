@@ -21,7 +21,8 @@ Folhas de desenho técnico no padrão brasileiro para a bancada **TechDraw** do 
 - Legenda de 180 mm de largura no canto inferior direito, alinhada à ISO 7200, com os campos:
   empresa / proprietário, cliente, projeto / contrato / OM, título e subtítulo, material,
   desenho, verificado e aprovado (cada um com data), escala, nº do desenho, revisão, folha,
-  formato, unidade, símbolo de 1º diedro, ART / CREA, tolerância geral e situação.
+  formato, unidade, símbolo de 1º diedro, ART / TRT, tolerância geral, situação,
+  responsável técnico e registro profissional (CREA / CFT).
 - Quadro de revisões com 4 linhas (rev., descrição, por, data) logo acima da legenda.
 
 Todos os campos são editáveis no TechDraw (clique duas vezes no texto da folha). Empresa, título, desenhista, data, escala e folha são preenchidos automaticamente pelo FreeCAD quando essas informações existem no documento.
